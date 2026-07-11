@@ -4,8 +4,7 @@
 
 ModelMetrics helps students and developers build intuition for binary classification evaluation. Load a demo scenario, edit samples, drag the decision threshold, and watch the confusion matrix and six standard metrics respond in real time.
 
-![Status](https://img.shields.io/badge/data-local%20demo-5B5BF0) ![API](https://img.shields.io/badge/API-none%20required-4F86F7) ![Purpose](https://img.shields.io/badge/built%20for-ML%20learning-8B6DF0)
-
+[View ModelMetrics](https://synapsera-modelmetrics.vercel.app)
 ---
 
 ## Features
