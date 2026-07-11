@@ -3,8 +3,7 @@
 **Interactive classification metrics dashboard for machine-learning education.**
 
 ModelMetrics helps students and developers build intuition for binary classification evaluation. Load a demo scenario, edit samples, drag the decision threshold, and watch the confusion matrix and six standard metrics respond in real time.
-
-[View ModelMetrics](https://synapsera-modelmetrics.vercel.app)
+| ModelMetrics | ✅ Live | [Repo](https://github.com/apoorvarrshetty/synapsera-modelmetrics) | [Demo](https://synapsera-modelmetrics.vercel.app) |
 ---
 
 ## Features
